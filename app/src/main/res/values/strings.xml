@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AgendaFinanceira</string>
+    <string-array name="tiposLancamentoArrayNoStrings">
+        <item>indefinida</item>
+        <item>entrada</item>
+        <item>saida</item>
+    </string-array>
+</resources>
